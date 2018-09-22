@@ -1,0 +1,4 @@
+#Sat Sep 22 21:09:39 EET 2018
+base.0=/Users/umit/Documents/flutterprojects/onboarding_slider_screen/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

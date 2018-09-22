@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/umit/Documents/flutterprojects/onboarding_slider_screen/build/app/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/umit/Documents/flutterprojects/onboarding_slider_screen/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/umit/Documents/flutterprojects/onboarding_slider_screen/build/app/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/umit/Documents/flutterprojects/onboarding_slider_screen/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/umit/Documents/flutterprojects/onboarding_slider_screen/build/app/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/umit/Documents/flutterprojects/onboarding_slider_screen/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/umit/Documents/flutterprojects/onboarding_slider_screen/build/app/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/umit/Documents/flutterprojects/onboarding_slider_screen/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/umit/Documents/flutterprojects/onboarding_slider_screen/build/app/intermediates/res/merged/debug/drawable_launch_background.xml.flat",
+        "source": "/Users/umit/Documents/flutterprojects/onboarding_slider_screen/android/app/src/main/res/drawable/launch_background.xml"
+    },
+    {
+        "merged": "/Users/umit/Documents/flutterprojects/onboarding_slider_screen/build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/umit/Documents/flutterprojects/onboarding_slider_screen/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]
