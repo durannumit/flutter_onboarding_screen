@@ -85,3 +85,18 @@ unlinked_spec.ds
 !**/ios/**/default.pbxuser
 !**/ios/**/default.perspectivev3
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
+
+## Seen in standard and sdk versions
+credits.html
+locales/
+libEGL.dll
+libGLEv2.dll
+node.dll
+nw.dll
+nw.exe
+natives_blob.bin
+nw_100_percent.pak
+nw_200_percent.pak
+nw_elf.dll
+snapshot_blob.bin
+resources.pak
