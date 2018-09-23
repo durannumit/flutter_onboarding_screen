@@ -8,6 +8,9 @@
 ehthumbs.db
 Thumbs.db
 
+build/app/intermediates/flutter/debug/snapshot_blob.bin.d
+build/frontend_server.d
+
 Makefile
 Makefile.in
 
