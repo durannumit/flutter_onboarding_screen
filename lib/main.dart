@@ -73,8 +73,6 @@ class _MyHomePageState extends State<MyHomePage> with TickerProviderStateMixin {
               slideUpdateStream: slideUpdateStream,
               vsync: this,
             );
-
-            nextPageIndex = activeIndex;
           }
 
           animatedPageDragger.run();
@@ -85,8 +83,9 @@ class _MyHomePageState extends State<MyHomePage> with TickerProviderStateMixin {
         }
 
         else if (event.updateType == UpdateType.doneAnimating){
-          activeIndex = nextPageIndex;
-
+          if (animatedPageDragger?.transitionGoal == TransitionGoal.open) {
+            activeIndex = nextPageIndex;
+          }
           slideDirection = SlideDirection.none;
           slidePercent = 0.0;
 
